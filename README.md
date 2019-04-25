@@ -1,2 +1,2 @@
 # Project
-Poll estimation 
+Face Recognition and Detection
